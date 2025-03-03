@@ -14,6 +14,7 @@ Contributions to the toolkit are warm welcome.
 
 - [📚 Reading & Learning]()
 - [👨‍💻 Serving models]()
+- [🍿 Images & Video]()
 
 ## 📚 Reading & Learning
 
@@ -41,6 +42,12 @@ Contributions to the toolkit are warm welcome.
 - [Agenta](https://www.agenta.ai/) - A platform for building and deploying AI models with a focus on prompt engineering.
 
 > Recommendation: If you start today, use [LangChain](https://langchain.org/) to build and deploy AI models with a focus on prompt engineering.
+
+## 🍿 Images & Video
+
+- [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+- [DrawThings](https://drawthings.ai/) - Uncompromised Image Generation - Craft a prompt to generate the image of your dreams in minutes.
+- [AMD Hummingbord](https://www.amd.com/en/developer/resources/technical-articles/amd-hummingbird-0-9b-text-to-video-diffusion-model-with-4-step-inferencing.html) - An Efficient Text-to-Video Diffusion Model with 4-Step Inferencing
 
 ## 🛠️ Tools & Resources
 
