@@ -17,7 +17,7 @@ Contributions to the toolkit are warm welcome.
 
 ## 📚 Reading & Learning
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zjkBMFhNj_g?si=EdmQ1Gtjd66NcOep" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![[1hr Talk] Intro to Large Language Models](https://img.youtube.com/vi/zjkBMFhNj_g/0.jpg)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
 > You can learn more about the internals of an LLM by the full defintion of a model [here](https://github.com/karpathy/minGPT/blob/master/mingpt/model.py).
 > There is more about to learn the transformer architecture in the [Attention is All You Need](https://arxiv.org/abs/1706.03762) paper.
